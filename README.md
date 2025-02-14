@@ -1,2 +1,0 @@
-# Predict-the-Fare-Amount-of-Future-Rides-Using-Regression-Analysis
-This project predicts Uber ride fares using regression analysis. A linear regression model was trained on historical data to estimate fares based on trip distance, time of day, and day of the week. It identifies key factors influencing fares and showcases how predictive models enhance operational efficiency and customer experience.
